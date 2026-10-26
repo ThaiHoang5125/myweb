@@ -89,7 +89,7 @@
   document.getElementById('contactForm').addEventListener('submit', function (e) {
     e.preventDefault();
     var n = document.getElementById('cName').value, em = document.getElementById('cEmail').value, m = document.getElementById('cMsg').value;
-    location.href = 'mailto:hoangluuanthaiost@gmail.com?subject=' + encodeURIComponent('Portfolio: ' + n) +
+    location.href = 'mailto:hoangluuanthai.work@gmail.com?subject=' + encodeURIComponent('Portfolio: ' + n) +
       '&body=' + encodeURIComponent(m + '\n\n' + n + ' <' + em + '>');
   });
 
