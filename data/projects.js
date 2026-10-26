@@ -21,12 +21,12 @@ window.PROJECTS = [
       en: "BKalc helps Bach Khoa students calculate grades for each semester, plan their studies and arrange their timetable neatly, right in the browser."
     },
     tech: ["TypeScript", "Vite"],
-    demo: "https://transcendent-halva-3a757f.netlify.app",
+    demo: "https://thaihoang5125.github.io/bkalc/",
     embed: false,
     github: "https://github.com/ThaiHoang5125/bkalc",
     screenshots: [],
     changelog: [
-      { date: "2026-10-27", vi: "Đưa lên Netlify", en: "Deployed to Netlify" }
+      { date: "2026-10-27", vi: "Đưa lên GitHub Pages", en: "Deployed to GitHub Pages" }
     ]
   },
   {
