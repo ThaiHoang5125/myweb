@@ -1,0 +1,47 @@
+window.I18N = {
+  vi: {
+    "nav.about": "Giới thiệu", "nav.projects": "Dự án", "nav.contact": "Liên hệ",
+    "hero.hi": "Xin chào, tôi là",
+    "hero.sub": "Tôi xây dựng các ứng dụng cá nhân với niềm đam mê tạo ra sản phẩm hữu ích và đẹp mắt.",
+    "hero.cta1": "Xem dự án", "hero.cta2": "Liên hệ",
+    "about.title": "Giới thiệu",
+    "about.p1": "Tôi là Thái Hoàng, một lập trình viên yêu thích biến ý tưởng thành ứng dụng thực tế.",
+    "about.p2": "Ngoài giờ làm việc, tôi thực hiện nhiều dự án app cá nhân để học hỏi và thử nghiệm công nghệ mới.",
+    "about.skills": "Kỹ năng",
+    "projects.title": "Dự án cá nhân",
+    "projects.demo": "Mở app", "projects.code": "Mã nguồn", "projects.download": "Tải về",
+    "projects.search": "Tìm dự án...", "filter.all": "Tất cả", "filter.web": "Web", "filter.windows": "Windows",
+    "status.done": "Hoàn thành", "status.wip": "Đang làm", "projects.empty": "Không có dự án phù hợp.",
+    "projects.details": "Chi tiết", "detail.back": "← Tất cả dự án", "detail.updated": "Cập nhật",
+    "detail.screens": "Ảnh chụp màn hình", "detail.changelog": "Nhật ký cập nhật", "detail.notfound": "Không tìm thấy dự án.",
+    "detail.tech": "Công nghệ", "detail.noscreens": "Chưa có ảnh.",
+    "contact.title": "Liên hệ",
+    "contact.intro": "Có ý tưởng hoặc muốn hợp tác? Hãy gửi tin nhắn cho tôi.",
+    "contact.name": "Tên của bạn", "contact.email": "Email", "contact.msg": "Nội dung",
+    "contact.send": "Gửi tin nhắn",
+    "typed": ["Lập trình viên", "Người làm app", "Người thích sáng tạo"]
+  },
+  en: {
+    "nav.about": "About", "nav.projects": "Projects", "nav.contact": "Contact",
+    "hero.hi": "Hi, I'm",
+    "hero.sub": "I build personal apps, driven by a passion for creating useful and beautiful products.",
+    "hero.cta1": "View projects", "hero.cta2": "Contact me",
+    "about.title": "About me",
+    "about.p1": "I'm Thái Hoàng, a developer who loves turning ideas into real applications.",
+    "about.p2": "Outside work, I build personal app projects to learn and experiment with new technology.",
+    "about.skills": "Skills",
+    "projects.title": "Personal projects",
+    "projects.demo": "Open app", "projects.code": "Source", "projects.download": "Download",
+    "projects.search": "Search projects...", "filter.all": "All", "filter.web": "Web", "filter.windows": "Windows",
+    "status.done": "Done", "status.wip": "In progress", "projects.empty": "No matching projects.",
+    "projects.details": "Details", "detail.back": "← All projects", "detail.updated": "Updated",
+    "detail.screens": "Screenshots", "detail.changelog": "Changelog", "detail.notfound": "Project not found.",
+    "detail.tech": "Tech", "detail.noscreens": "No screenshots yet.",
+    "contact.title": "Contact",
+    "contact.intro": "Have an idea or want to collaborate? Send me a message.",
+    "contact.name": "Your name", "contact.email": "Email", "contact.msg": "Message",
+    "contact.send": "Send message",
+    "typed": ["Developer", "App maker", "Creative thinker"]
+  }
+};
+window.SKILLS = ["HTML/CSS/JS", "Flutter", "React", "Node.js", "Python", "Firebase", "Git"];
