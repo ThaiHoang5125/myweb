@@ -83,7 +83,6 @@
     var th = root.dataset.theme === 'dark' ? 'light' : 'dark'; save('theme', th); applyTheme(th);
   });
 
-  document.getElementById('skills').innerHTML = window.SKILLS.map(function (s) { return '<li>' + s + '</li>'; }).join('');
   document.getElementById('year').textContent = new Date().getFullYear();
 
   document.getElementById('contactForm').addEventListener('submit', function (e) {
