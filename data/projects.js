@@ -52,29 +52,5 @@ window.PROJECTS = [
     changelog: [
       { date: "2026-10-27", vi: "Bản phát hành đầu tiên v1.0.0: dùng cục bộ, không cần Google", en: "First release v1.0.0: local-first, no Google required" }
     ]
-  },
-  {
-    id: "sample-windows",
-    icon: "🖥️",
-    type: "windows",
-    status: "wip",
-    updated: "2026-10-15",
-    name: { vi: "Ứng dụng Windows mẫu", en: "Sample Windows App" },
-    desc: {
-      vi: "Mô tả ngắn về ứng dụng Windows của bạn. Thay bằng nội dung thật.",
-      en: "Short description of your Windows app. Replace with real content."
-    },
-    details: {
-      vi: "Mô tả chi tiết: tính năng chính, cách cài đặt, yêu cầu hệ thống.",
-      en: "Detailed description: key features, how to install, system requirements."
-    },
-    tech: ["C#", ".NET"],
-    download: "#",
-    version: "v0.1.0",
-    github: "#",
-    screenshots: [],
-    changelog: [
-      { date: "2026-10-15", vi: "Bản thử nghiệm v0.1.0", en: "Beta v0.1.0" }
-    ]
   }
 ];
